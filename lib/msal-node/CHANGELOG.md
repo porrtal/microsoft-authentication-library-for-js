@@ -1,8 +1,16 @@
 # Change Log - @azure/msal-node
 
-This log was last generated on Tue, 04 Jan 2022 00:20:29 GMT and should not be manually modified.
+This log was last generated on Wed, 26 Jan 2022 21:11:47 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.6.0
+
+Wed, 26 Jan 2022 21:11:47 GMT
+
+### Minor changes
+
+- feat: add the redis distributed cache layer (kamausamuel11@gmail.com)
 
 ## 1.5.0
 
